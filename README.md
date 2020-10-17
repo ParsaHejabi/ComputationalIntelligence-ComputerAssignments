@@ -31,6 +31,11 @@ This repository was created for the Computational Intelligence course at Shahid 
 
 Linear and polynomial regression on COVID19 in Iran.
 
+Notebook | Link
+-------- | ----------
+Linear regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW1/COVID19_Iran_linear.ipynb)
+Polynomial regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/COVID19_Iran_polynomial.ipynb)
+
 <!-- CONTACT -->
 
 ## Contact
