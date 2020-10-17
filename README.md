@@ -8,8 +8,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<a href="https://twitter.com/callme_parsa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @callme_parsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- [![Twitter][twitter-shield]][twitter-url] -->
 
 <!-- [![MIT License][license-shield]][license-url] -->
 
@@ -60,6 +61,10 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This repository was created for the Computational Intelligence course at Shahid Beheshti University, and it has all of the computer assignments given to students through the Fall 2020 (1399) Term.
+
+## HW1
+
+Linear and polynomial regression on COVID19 in Iran.
 
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -137,7 +142,7 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 
 ## Contact
 
-Parsa Hejabi - <a href="https://twitter.com/callme_parsa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @callme_parsa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Parsa Hejabi - [@callme_parsa](https://twitter.com/callme_parsa)
 
 Project Link: [https://github.com/ParsaHejabi/ComputationalIntelligence-ComputerAssignments](https://github.com/ParsaHejabi/ComputationalIntelligence-ComputerAssignments)
 
@@ -168,4 +173,5 @@ Project Link: [https://github.com/ParsaHejabi/ComputationalIntelligence-Computer
 
 <!-- [twitter-shield]: https://img.shields.io/twitter/url?style=social -->
 <!-- [twitter-url]: https://twitter.com/callme_parsa -->
-<!-- [product-screenshot]: images/screenshot.png -->
+
+[product-screenshot]: images/screenshot.png
