@@ -42,8 +42,8 @@ Polynomial regression | [![Open In Colab](https://colab.research.google.com/asse
 SVM and KNN algorithm on [Adult Income Dataset](https://sci2s.ugr.es/keel/dataset/data/missing/adult.zip)
 Notebook | Link
 -------- | ----------
-SVM | [![Open In Colab](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_SVM.ipynb)
-KNN | [![Open In Colab](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_KNN.ipynb)
+SVM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_SVM.ipynb)
+KNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_KNN.ipynb)
 
 
 <!-- CONTACT -->
