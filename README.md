@@ -17,6 +17,7 @@
 
 - [About the Project](#about-the-project)
 - [HW1](#HW1)
+- [HW2](#HW2)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -35,6 +36,15 @@ Notebook | Link
 -------- | ----------
 Linear regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW1/COVID19_Iran_linear.ipynb)
 Polynomial regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/COVID19_Iran_polynomial.ipynb)
+
+## HW2
+
+SVM and KNN algorithm on [Adult Income Dataset](https://sci2s.ugr.es/keel/dataset/data/missing/adult.zip)
+Notebook | Link
+-------- | ----------
+SVM | [![Open In Colab](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_SVM.ipynb)
+KNN | [![Open In Colab](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_KNN.ipynb)
+
 
 <!-- CONTACT -->
 
