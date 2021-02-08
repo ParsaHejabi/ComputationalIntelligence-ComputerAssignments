@@ -19,6 +19,7 @@
 - [HW1](#HW1)
 - [HW2](#HW2)
 - [HW3](#HW3)
+- [Final Project](#final-project)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -52,6 +53,17 @@ Solving Stanford dog breed identification problem using Neural Networks. [Datase
 Notebook | Link
 -------- | ----------
 CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW3/Stanford_Dogs_Dataset.ipynb)
+
+## Final Project
+Persian news classification problem. [Kaggle Contest Link](https://www.kaggle.com/c/computational-intelligence-course-final-project/).
+
+Ranked 1st on the public leadeboard using BERT language model.
+Model | Link | Score
+-------- | ---------- | ----------
+BERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/FinalProject/CI_FinalProject_BERT.ipynb) | 0.87755
+Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/FinalProject/CI_FinalProject_tfidf.ipynb) | 0.81632
+MultinomialNB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/FinalProject/CI_FinalProject_tfidf_MultinomialNB.ipynb) | 0.69987
+BiLSTM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/FinalProject/CI_FinalProject_BiLSTM.ipynb) | 0.76230
 
 
 <!-- CONTACT -->
