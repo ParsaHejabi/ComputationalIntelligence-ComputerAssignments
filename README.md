@@ -18,6 +18,7 @@
 - [About the Project](#about-the-project)
 - [HW1](#HW1)
 - [HW2](#HW2)
+- [HW3](#HW3)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -44,6 +45,13 @@ Notebook | Link
 -------- | ----------
 SVM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_SVM.ipynb)
 KNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW2/Adult_Income_Dataset_KNN.ipynb)
+
+
+## HW3
+Solving Stanford dog breed identification problem using Neural Networks. [Dataset Link](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+Notebook | Link
+-------- | ----------
+CNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParsaHejabi/ComputationalIntelligence-ComputerAssignments/blob/main/HW3/Stanford_Dogs_Dataset.ipynb)
 
 
 <!-- CONTACT -->
